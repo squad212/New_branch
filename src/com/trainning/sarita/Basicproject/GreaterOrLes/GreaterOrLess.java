@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject;
+package com.trainning.sarita.Basicproject.GreaterOrLes;
 
 public class GreaterOrLess {
     /**

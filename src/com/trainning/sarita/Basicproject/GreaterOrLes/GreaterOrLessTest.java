@@ -1,4 +1,6 @@
-package com.trainning.sarita.Basicproject;
+package com.trainning.sarita.Basicproject.GreaterOrLes;
+import com.trainning.sarita.Basicproject.GreaterOrLes.GreaterOrLess;
+
 import java.util.Scanner;
 
 public class GreaterOrLessTest {
