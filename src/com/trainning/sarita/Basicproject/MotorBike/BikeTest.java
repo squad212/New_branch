@@ -14,7 +14,7 @@ public class BikeTest {
 
         ducati.setSpeed(20);
         honda.setSpeed(0);
-        System.out.println("Hello");
+        System.out.println("Hello from the other side");
 
 
     }
