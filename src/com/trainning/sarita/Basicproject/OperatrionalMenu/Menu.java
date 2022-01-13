@@ -17,6 +17,8 @@ public class Menu {
             System.out.println("The division is: " + (number1 / number2));
         } else if(choice == 4) {
             System.out.println("The multiplication is: " + (number1 * number2));
+        }else if( choice == 5)  {
+            System.out.println("The percentage is: " + ((number1/number2) * 100));
         }else {
             System.out.println("Invalid Operation");
         }
@@ -35,6 +37,9 @@ public class Menu {
                 break;
             case 4 :
                 System.out.println("The multiplication is: " + (number1 * number2));
+                break;
+            case 5 :
+                System.out.println("The percentage is: " + ((number1 / number2)) * 100);
                 break;
             default :
                 System.out.println("Invalid Operation");

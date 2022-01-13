@@ -16,6 +16,7 @@ public class MenuTest {
         System.out.println("2 - Subtract");
         System.out.println("3 - Divide");
         System.out.println("4 - Multiply");
+        System.out.println("5 - Percentage ");
 
         System.out.println("Enter choice:");
         int choice = sc.nextInt();
