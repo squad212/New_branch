@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.LoopExample;
+package com.trainning.sarita.Basicproject.ForLoop;
 
 public class MyNumber {
 

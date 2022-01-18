@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.Loop;
+package com.trainning.sarita.Basicproject.DoLoop;
 
 import java.util.Scanner;
 
