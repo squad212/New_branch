@@ -1,6 +1,6 @@
 package com.trainning.sarita.basicproject.collection;
 
-import com.trainning.sarita.basicproject.array.Student;
+// import com.trainning.sarita.basicproject.array.Student;
 
 import java.util.ArrayList;
 import java.util.Collections;

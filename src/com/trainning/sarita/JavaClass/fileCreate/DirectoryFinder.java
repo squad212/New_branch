@@ -1,4 +1,4 @@
-package com.trainning.sarita.basicproject.fileCreate;
+package com.trainning.sarita.JavaClass.fileCreate;
 
 import java.io.File;
 import java.io.IOException;

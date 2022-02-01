@@ -1,6 +1,6 @@
-package com.trainning.sarita.basicproject.javaClassInheritanceExample;
+package com.trainning.sarita.JavaClass.javaClassInheritanceExample;
 
-public class StudentMarks extends Student{
+public class StudentMarks extends Student {
     private int sub1;
     private int sub2;
     private int sub3;

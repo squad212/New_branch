@@ -1,8 +1,9 @@
-package com.trainning.sarita.basicproject.fileCreate;
+package com.trainning.sarita.JavaClass.fileCreate;
 
 
 import java.io.FileOutputStream;
 import java.io.IOException;
+
 public class File1 {
         public static void main(String[] args) {
             try {

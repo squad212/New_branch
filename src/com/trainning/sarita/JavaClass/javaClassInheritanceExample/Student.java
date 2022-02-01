@@ -1,4 +1,4 @@
-package com.trainning.sarita.basicproject.javaClassInheritanceExample;
+package com.trainning.sarita.JavaClass.javaClassInheritanceExample;
 
 public class Student {
     private int studentId;

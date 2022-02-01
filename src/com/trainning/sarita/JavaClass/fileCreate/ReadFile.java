@@ -1,8 +1,7 @@
 
-package com.trainning.sarita.basicproject.fileCreate;
+package com.trainning.sarita.JavaClass.fileCreate;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 public class ReadFile {

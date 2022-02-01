@@ -7,6 +7,7 @@ public class FunctionalProgrammingTest {
         List<String> list = List.of("Apple", "Bat", "Cat", "Dog");
 
         // change the method name for each method.
+
         printWithFPWithFiltering(list);
        
     }
