@@ -14,7 +14,7 @@ public class GenericsTest {
 
 
 
-        /* as now our class is just taking the string so help with the generic
+        /* as now our class is just taking the string so help with the genericf
          we will make you method to take all the data type)
          */
         MyCustomList<Integer> list2 = new MyCustomList<Integer>();
