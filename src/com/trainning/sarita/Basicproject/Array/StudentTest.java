@@ -1,4 +1,6 @@
-package com.trainning.sarita.Basicproject.Array;
+/*
+package com.trainning.sarita.basicproject.array;
+
 
 
 import java.math.BigDecimal;
@@ -54,5 +56,5 @@ public class StudentTest {
 
 
 }
-
+ */
 

@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.intrest;
+package com.trainning.sarita.basicproject.intrest;
 
 import java.math.BigDecimal;
 

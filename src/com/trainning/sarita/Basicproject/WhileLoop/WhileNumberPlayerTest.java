@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.WhileLoop;
+package com.trainning.sarita.basicproject.whileLoop;
 
 public class WhileNumberPlayerTest {
 

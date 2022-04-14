@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.IfStatement;
+package com.trainning.sarita.basicproject.ifStatement;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.OperatrionalMenu;
+package com.trainning.sarita.basicproject.operatrionalMenu;
 
 import java.util.Scanner;
 

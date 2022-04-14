@@ -1,4 +1,4 @@
-package com.trainning.sarita.Basicproject.OperatrionalMenu;
+package com.trainning.sarita.basicproject.operatrionalMenu;
 
 public class Menu {
     public void option(int number1,int number2, int choice){
